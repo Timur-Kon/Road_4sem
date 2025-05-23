@@ -1,0 +1,53 @@
+18.04.2025 23:59:19 - The noise value is set to10
+18.04.2025 23:59:19 - Interface received 'INI' command with parameters: length=500, width=500
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=100.000000, x0=50.000000, y0=50.000000, sigma_x=10.000000, sigma_y=10.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=100.000000, x0=100.000000, y0=100.000000, sigma_x=12.000000, sigma_y=8.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=90.000000, x0=150.000000, y0=150.000000, sigma_x=15.000000, sigma_y=10.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=80.000000, x0=200.000000, y0=200.000000, sigma_x=20.000000, sigma_y=15.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=75.000000, x0=250.000000, y0=250.000000, sigma_x=25.000000, sigma_y=20.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=70.000000, x0=300.000000, y0=300.000000, sigma_x=30.000000, sigma_y=25.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=65.000000, x0=350.000000, y0=350.000000, sigma_x=35.000000, sigma_y=30.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=60.000000, x0=400.000000, y0=400.000000, sigma_x=40.000000, sigma_y=35.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=55.000000, x0=450.000000, y0=450.000000, sigma_x=45.000000, sigma_y=40.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=50.000000, x0=25.000000, y0=25.000000, sigma_x=12.000000, sigma_y=18.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=45.000000, x0=75.000000, y0=75.000000, sigma_x=18.000000, sigma_y=22.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=40.000000, x0=125.000000, y0=125.000000, sigma_x=10.000000, sigma_y=16.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=35.000000, x0=175.000000, y0=175.000000, sigma_x=20.000000, sigma_y=25.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=30.000000, x0=225.000000, y0=225.000000, sigma_x=12.000000, sigma_y=12.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=25.000000, x0=275.000000, y0=275.000000, sigma_x=18.000000, sigma_y=20.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=20.000000, x0=325.000000, y0=325.000000, sigma_x=22.000000, sigma_y=18.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=15.000000, x0=375.000000, y0=375.000000, sigma_x=25.000000, sigma_y=25.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=10.000000, x0=425.000000, y0=425.000000, sigma_x=30.000000, sigma_y=30.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=5.000000, x0=475.000000, y0=475.000000, sigma_x=35.000000, sigma_y=35.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=100.000000, x0=50.000000, y0=450.000000, sigma_x=10.000000, sigma_y=10.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=95.000000, x0=100.000000, y0=400.000000, sigma_x=12.000000, sigma_y=12.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=90.000000, x0=150.000000, y0=350.000000, sigma_x=15.000000, sigma_y=15.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=85.000000, x0=200.000000, y0=300.000000, sigma_x=18.000000, sigma_y=18.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=80.000000, x0=250.000000, y0=250.000000, sigma_x=20.000000, sigma_y=20.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=75.000000, x0=300.000000, y0=200.000000, sigma_x=22.000000, sigma_y=22.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=70.000000, x0=350.000000, y0=150.000000, sigma_x=25.000000, sigma_y=25.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=65.000000, x0=400.000000, y0=100.000000, sigma_x=28.000000, sigma_y=28.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=60.000000, x0=450.000000, y0=50.000000, sigma_x=30.000000, sigma_y=30.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=40.000000, x0=200.000000, y0=250.000000, sigma_x=25.000000, sigma_y=30.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=60.000000, x0=25.000000, y0=275.000000, sigma_x=28.000000, sigma_y=22.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=55.000000, x0=75.000000, y0=250.000000, sigma_x=30.000000, sigma_y=25.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=50.000000, x0=125.000000, y0=225.000000, sigma_x=35.000000, sigma_y=28.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=45.000000, x0=175.000000, y0=200.000000, sigma_x=10.000000, sigma_y=10.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=40.000000, x0=225.000000, y0=175.000000, sigma_x=12.000000, sigma_y=12.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=35.000000, x0=275.000000, y0=150.000000, sigma_x=15.000000, sigma_y=15.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=30.000000, x0=325.000000, y0=125.000000, sigma_x=18.000000, sigma_y=18.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=25.000000, x0=375.000000, y0=100.000000, sigma_x=20.000000, sigma_y=20.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=20.000000, x0=425.000000, y0=75.000000, sigma_x=22.000000, sigma_y=22.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=15.000000, x0=475.000000, y0=50.000000, sigma_x=25.000000, sigma_y=25.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=10.000000, x0=25.000000, y0=25.000000, sigma_x=28.000000, sigma_y=28.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=5.000000, x0=75.000000, y0=450.000000, sigma_x=30.000000, sigma_y=30.000000
+18.04.2025 23:59:19 - Interface received 'g' command with parameters: h=100.000000, x0=125.000000, y0=400.000000, sigma_x=35.000000, sigma_y=35.000000
+18.04.2025 23:59:19 - Interface received 'generate' command.
+18.04.2025 23:59:20 - Interface received 'gnuplot' command with filename: plot
+18.04.2025 23:59:26 - Interface received 'write bmp' command with filename:bmp.bmp
+18.04.2025 23:59:26 - Interface received 'BIN' command with h = 2
+18.04.2025 23:59:27 - Interface received 'WAVE' command with pixel noise:10
+18.04.2025 23:59:28 - Interface received 'TRIANG' command with filename: triang.bmp
+18.04.2025 23:59:29 - Interface received 'KMEANDS' coommand with k =5
+18.04.2025 23:59:29 - Obrabotka ROAD: (10,10) -> (325,225)
+18.04.2025 23:59:29 - Radius set to 30
